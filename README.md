@@ -7,6 +7,8 @@
 - Express.js
 - ES6
 - Node.js
+- HTML
+- CSS
 
 ## License
 MIT License
